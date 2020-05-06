@@ -1,0 +1,12 @@
+{
+  "ver": "2.0.14",
+  "importer": "typescript",
+  "imported": false,
+  "uuid": "bfe951c4-66ad-4f42-9785-f3ba9701faf4",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/roadPoint.js"
+  }
+}

@@ -1,0 +1,87 @@
+2020-05-06 10:13:10-log: ui-kit@1.0.0 enable
+2020-05-06 10:13:10-log: ipc@1.0.0 enable
+2020-05-06 10:13:10-log: tester@1.0.0 enable
+2020-05-06 10:13:10-log: preferences@1.0.0 enable
+2020-05-06 10:13:12-log: engine@1.0.0 enable
+2020-05-06 10:13:12-log: asset-db@1.0.0 enable
+2020-05-06 10:13:12-log: console@1.0.0 enable
+2020-05-06 10:13:12-log: scene@1.0.0 enable
+2020-05-06 10:13:12-log: packager@1.0.0 enable
+2020-05-06 10:13:12-log: project-setting@1.0.0 enable
+2020-05-06 10:13:12-log: about@1.0.0 enable
+2020-05-06 10:13:12-log: server@1.0.0 enable
+2020-05-06 10:13:12-log: utils@1.0.0 enable
+2020-05-06 10:13:12-log: profile@1.0.0 enable
+2020-05-06 10:13:12-log: assets@1.0.0 enable
+2020-05-06 10:13:12-log: inspector@1.0.0 enable
+2020-05-06 10:13:12-log: hierarchy@1.0.0 enable
+2020-05-06 10:13:12-log: preview@1.0.0 enable
+2020-05-06 10:13:12-log: animator@1.0.0 enable
+2020-05-06 10:13:12-warn: Port 7456 is occupied
+2020-05-06 10:13:13-log: builder@1.0.0 enable
+2020-05-06 10:13:13-log: alipay-mini-game@1.0.0 enable
+2020-05-06 10:13:13-log: android@1.0.0 enable
+2020-05-06 10:13:13-log: baidu-mini-game@1.0.0 enable
+2020-05-06 10:13:13-log: cocos-play@1.0.0 enable
+2020-05-06 10:13:13-log: huawei-mini-game@1.0.0 enable
+2020-05-06 10:13:13-log: ios@1.0.0 enable
+2020-05-06 10:13:13-log: mac@1.0.0 enable
+2020-05-06 10:13:13-log: native@1.0.0 enable
+2020-05-06 10:13:13-log: oppo-mini-game@1.0.0 enable
+2020-05-06 10:13:13-log: vivo-mini-game@1.0.0 enable
+2020-05-06 10:13:13-log: web-desktop@1.0.0 enable
+2020-05-06 10:13:13-log: web-mobile@1.0.0 enable
+2020-05-06 10:13:13-log: wechatgame@1.0.0 enable
+2020-05-06 10:13:13-log: windows@1.0.0 enable
+2020-05-06 10:13:13-log: xiaomi-quick-game@1.0.0 enable
+2020-05-06 10:33:32-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 10:40:59-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 10:42:53-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 10:43:44-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 10:45:18-info: asset meta saved
+2020-05-06 10:46:34-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\model\sign\Materials_start.FBX\Material #93.mtl) saved
+2020-05-06 10:47:13-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 10:48:04-info: asset meta saved
+2020-05-06 10:48:40-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\model\sign\Materials_end.FBX\Material #91.mtl) saved
+2020-05-06 10:49:30-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 10:53:59-info: asset meta saved
+2020-05-06 10:54:19-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\model\sign\Materials_sign01.FBX\Material #91.mtl) saved
+2020-05-06 10:55:42-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 10:59:15-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:07:48-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:08:06-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:09:23-info: asset meta saved
+2020-05-06 11:11:10-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:11:16-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\model\tree\Materials_stone01.FBX\Material #5.mtl) saved
+2020-05-06 11:11:29-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:13:49-info: asset meta saved
+2020-05-06 11:13:50-error: [Scene] Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+2020-05-06 11:13:50-error: [Scene] Error: Load image ( import://c3/c38b8a67-7962-47a2-96e9-9dd829c3a7ca@1cdc4.png?_t=1588734830713 ) failed
+2020-05-06 11:13:50-error: [Scene] [ 'import://c3/c38b8a67-7962-47a2-96e9-9dd829c3a7ca@1cdc4.png' ]
+2020-05-06 11:13:50-error: [Scene] Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+2020-05-06 11:13:50-error: [Scene] TypeError: Cannot read property 'content' of undefined
+2020-05-06 11:13:51-error: [Scene] TypeError: Cannot read property 'content' of undefined
+2020-05-06 11:13:51-error: [Scene] TypeError: Cannot read property 'content' of undefined
+2020-05-06 11:14:12-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\model\tree\Materials_tree01.FBX\Material #117.mtl) saved
+2020-05-06 11:15:51-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:16:18-info: asset meta saved
+2020-05-06 11:16:19-error: [Scene] Error: Can not get asset url by uuid "e78c9d5b-2f61-425f-8600-19f61592ec37@604e5", the asset may be deleted.
+2020-05-06 11:16:19-error: [Scene] Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+2020-05-06 11:16:19-error: [Scene] Error: [AssetLibrary] loading JSON or dependencies failed: Can not get asset url by uuid "e78c9d5b-2f61-425f-8600-19f61592ec37@604e5", the asset may be deleted.
+2020-05-06 11:16:23-error: [Scene] TypeError: Cannot read property 'content' of undefined
+2020-05-06 11:16:24-error: [Scene] TypeError: Cannot read property 'content' of undefined
+2020-05-06 11:18:43-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:18:48-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\model\tree\Materials_tree02.FBX\Material #117.mtl) saved
+2020-05-06 11:18:59-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:20:05-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:20:59-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:21:33-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:29:13-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:30:30-info: asset(D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\New Scene.scene) saved
+2020-05-06 11:34:25-warn: [Asset DB] Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+2020-05-06 11:39:31-error: [Asset DB] 脚本 D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\script\roadPoint.ts 转换失败：$SyntaxError: D:\cocos3dProject\cocos_taxi_car\taxi_game_demo\assets\script\roadPoint.ts: You have trailing decorators with no method (21:0)
+
+  19 | 
+  20 | }
+> 21 | 
+     | ^ [uuid: bfe951c4-66ad-4f42-9785-f3ba9701faf4]

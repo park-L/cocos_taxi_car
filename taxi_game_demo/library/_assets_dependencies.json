@@ -1,0 +1,20 @@
+{
+  "file2uuids": {
+    "D:\\cocos3dProject\\cocos_taxi_car\\taxi_game_demo\\assets\\model\\sign\\Materials_start.FBX\\Material #93.mtl": [],
+    "D:\\cocos3dProject\\cocos_taxi_car\\taxi_game_demo\\assets\\model\\sign\\Materials_end.FBX\\Material #91.mtl": [],
+    "D:\\cocos3dProject\\cocos_taxi_car\\taxi_game_demo\\assets\\model\\sign\\Materials_sign01.FBX\\Material #91.mtl": [],
+    "D:\\cocos3dProject\\cocos_taxi_car\\taxi_game_demo\\assets\\model\\tree\\Materials_stone01.FBX\\Material #5.mtl": [],
+    "D:\\cocos3dProject\\cocos_taxi_car\\taxi_game_demo\\assets\\model\\tree\\Materials_tree01.FBX\\Material #117.mtl": [],
+    "D:\\cocos3dProject\\cocos_taxi_car\\taxi_game_demo\\assets\\model\\tree\\Materials_tree02.FBX\\Material #117.mtl": []
+  },
+  "uuid2uuids": {
+    "1baf0fc9-befa-459c-8bdd-af1a450a0319": [
+      "ca4466b7-ceda-411a-a938-9ee179db107d",
+      "3a751ae3-a1a7-4da4-8169-379506652c3f",
+      "57ea6ff2-d9b2-4181-a88a-84926430d787",
+      "95a83f36-c92e-433c-90eb-2def35d7ee64",
+      "53c8e7f2-c963-4967-b178-08f98ac96e8a",
+      "d5f80625-ba9d-4912-aa6b-28de6b1c405a"
+    ]
+  }
+}
